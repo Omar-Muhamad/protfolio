@@ -4,7 +4,7 @@
 
 > AN HTML AND CSS FILE.
 
-![screenshot](./IMG1.PNG)
+![screenshot](./IMG1.png)
 
 Additional description about the project and its features.
 
