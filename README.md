@@ -4,7 +4,7 @@
 
 > AN HTML AND CSS FILE.
 
-![screenshot](./Screenshot 2022-01-06 193525.PNG)
+![screenshot](./IMG1.PNG)
 
 Additional description about the project and its features.
 
