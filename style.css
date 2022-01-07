@@ -83,6 +83,7 @@ li {
 .icons_cont li {
   margin-right: 20px;
 }
+
 .works {
   background-color: #e5e5e5;
   padding-top: 114px;
@@ -185,6 +186,7 @@ button:focus {
   background-color: #2230d2;
   border: 1px solid #2230d2;
 }
+
 .about-me {
   background-color: #e5e5e5;
 }
@@ -256,12 +258,12 @@ button:focus {
 
 hr {
   border-top: 1px solid #ebecf0;
-  margin-bottom:  24px;
+  margin-bottom: 24px;
 }
 
 .ll11 {
   display: flex;
-  flex: row;
+  flex-direction: row;
 }
 
 .ll11 i {
@@ -274,7 +276,7 @@ hr {
 
 .frameworks {
   display: flex;
-  flex: column;
+  flex-direction: row;
   margin-bottom: 24px;
 }
 
@@ -285,7 +287,7 @@ hr {
 
 .skills {
   display: flex;
-  flex: column;
+  flex-direction: row;
   margin-bottom: 24px;
 }
 
