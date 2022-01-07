@@ -1,3 +1,85 @@
-h1 {
-  color: rgb(23, 150, 101);
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Indie Flower", cursive;
+  font-family: "Paprika", cursive;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+li {
+  list-style: none;
+  margin-right: 19px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+}
+
+.menu_icon {
+  margin-top: 10px;
+  margin-left: 170px;
+  color: #6070ff;
+}
+
+.logo {
+  margin: 10px 0 0 24px;
+  height: 20px;
+  font-size: 10px;
+  font-weight: bold;
+  color: #6070ff;
+}
+
+.container {
+  background-image: url("./img/mopbkg.png");
+  background-color: #fff;
+  width: 100%;
+  padding-top: 128px;
+  padding-left: 12px;
+  padding-bottom: 200px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0 0 0 90px;
+}
+
+.myIntro {
+  width: 327px;
+  left: 24px;
+  top: 114px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: #172b4d;
+}
+
+.mYInfo {
+  margin: 12px 0;
+  width: 327px;
+  height: 146px;
+  left: 24px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.connect {
+  color: #7f8cff;
+}
+
+.icons_cont {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: row;
+}
+
+.icons_cont li {
+  margin-right: 20px;
 }
