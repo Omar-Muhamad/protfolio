@@ -308,6 +308,8 @@ hr {
   background-repeat: no-repeat;
   background-position: 100% 20px;
   background-size: contain;
+  display: flex;
+  flex-direction: column;
 }
 
 form {
